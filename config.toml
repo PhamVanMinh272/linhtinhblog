@@ -18,7 +18,7 @@ defaultContentLanguage = "vi-vn"
 title = "Linh tinh chuyện đời"
 theme = "tranquilpeak"
 # disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-155903502-1"
 paginate = 10
 canonifyurls = true
 
