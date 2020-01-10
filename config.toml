@@ -120,6 +120,10 @@ canonifyurls = true
 
   description = "Chia sẻ trải nghiệm đi chơi"
 
+    # Facebook
+  fbAdminIds = ""
+  fbAppId = "637139943694529"
+
   # Customization
   # Define the behavior of the sidebar
   # 1: Display extra large sidebar on extra large screen, large sidebar on large screen,
