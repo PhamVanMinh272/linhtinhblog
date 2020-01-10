@@ -155,7 +155,7 @@ Hôm đó mình mua một con bạch tuộc khoảng 300 đến 400 gram là 120
 
 ## 2.11. Ăn bánh mì xíu mại
 
-Thấy mọi người vào quán toàn gọi theo ý thích của họ, còn trong hình là mình gọi mặc định (một trứng, một xíu mại).
+Thấy mọi người vào quán toàn gọi theo ý thích của họ, còn trong hình là mình gọi mặc định (một trứng, một xíu mại). Mình không nhớ mình ăn ở đâu nữa, nhưng có rất nhiều chỗ bán món này ở Vũng Tàu.
 
 {{< image classes="fancybox center clear" thumbnail-width="60%" src="/images/post/loanh_quanh_vung_tau/IMG_banh_mi_xiu_mai.jpg" title="Hình chụp bánh mì xíu mại">}}
 
@@ -221,4 +221,4 @@ Chuyến đi này đã gây ra tổng thiệt hại lên tới 1tr. Trong nhữn
 
 Qua lần này mình nhận ra rằng đi khoảng 2 hay 3 chỗ mình nên tìm chỗ nghỉ ngơi (nhà nghỉ chẳng hạn) cho đỡ mệt. Nghỉ ngơi để còn có sức cho địa điểm tiếp theo. Ngoài ra, mình nên mang theo dù nữa vì ở đây nhiều địa điểm rất nắng, đặc biệt là Hồ Đá Xanh.
 
-Chúc các bạn có một chuyến đi vui vẻ nhé.
+Mong những thông tin này sẽ giúp chuyến đi của các bạn một phần nào thuận lợi hơn. Chúc các bạn có một chuyến đi vui vẻ nhé.
