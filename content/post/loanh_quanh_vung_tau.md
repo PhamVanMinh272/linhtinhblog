@@ -217,7 +217,7 @@ Món lạ và dai vô cũng. Mà mình quên chụp hình lại rồi. Món này
 
 Về tới nhà lúc 20h hay 21h gì đó. Tắm rửa và lăn ra ngủ luôn kk.
 
-Chuyến đi này đã gây ra tổng thiệt hại lên tới 1tr. Trong những địa điểm trên mình thích nhất thì vẫn là biển, Mũi Nghinh Phong, Công viên Thỏ Trắng. 
+Chuyến đi này đã gây ra tổng thiệt hại lên tới 1tr. Trong những địa điểm trên mình thích nhất là biển, Mũi Nghinh Phong, Công viên Thỏ Trắng. 
 
 Qua lần này mình nhận ra rằng đi khoảng 2 hay 3 chỗ mình nên tìm chỗ nghỉ ngơi (nhà nghỉ chẳng hạn) cho đỡ mệt. Nghỉ ngơi để còn có sức cho địa điểm tiếp theo. Ngoài ra, mình nên mang theo dù nữa vì ở đây nhiều địa điểm rất nắng, đặc biệt là Hồ Đá Xanh.
 
