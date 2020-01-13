@@ -111,7 +111,7 @@ Giữ xe: 10k chỉ giữ tới 6h30 tối thôi nhé
 
 Giá vé vào thay đồ và tắm lại: hình như là 20k một người.
 
-Đã đi thành phố biển thì khó có thể nào bỏ qua việc tắm biển nhỉ. Hihi. Người ta có cho thuê tủ gửi đồ. Tuy nhiên mình để đồ ở xe luôn, điện thoại và ví tiền mình để ở cốp xe.
+Đã đi thành phố biển thì khó có thể nào bỏ qua việc tắm biển nhỉ. Hihi. Người ta có cho thuê tủ gửi đồ. Tuy nhiên mình để đồ ở xe luôn, điện thoại và ví tiền mình để ở cốp xe. Hôm đó mình đi chơi ở bãi sau.
 
 ## 2.8. Ăn lẩu cá đuối
 
